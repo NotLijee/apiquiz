@@ -44,5 +44,5 @@ struct Class {
 
 
 async fn get_classes() -> &'static str {
-    "class list"
+    "the class list"
  }
